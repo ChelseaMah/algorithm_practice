@@ -1,4 +1,4 @@
-package week2.answer;
+package group2.answer;
 
 /**
  * 习题1 打印完数

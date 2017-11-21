@@ -1,4 +1,4 @@
-package week3.answer;
+package group3.answer;
 
 /**
  * 当n<=100 时，求n!的准确值

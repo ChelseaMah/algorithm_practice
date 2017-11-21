@@ -1,4 +1,4 @@
-package week3.answer;
+package group3.answer;
 
 /**
  * 高精度数据 * 长整数.

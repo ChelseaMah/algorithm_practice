@@ -1,4 +1,4 @@
-package week1.answer;
+package group1.answer;
 
 /**
  * 习题1 找零钱

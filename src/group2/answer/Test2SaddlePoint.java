@@ -1,4 +1,4 @@
-package week2.answer;
+package group2.answer;
 
 /**
  * 习题2 打印鞍点

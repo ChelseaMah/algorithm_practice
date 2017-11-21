@@ -1,4 +1,4 @@
-package week2.answer;
+package group2.answer;
 
 /**
  * 习题3 打印如下规律三角形

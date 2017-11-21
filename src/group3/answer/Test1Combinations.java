@@ -1,4 +1,4 @@
-package week3.answer;
+package group3.answer;
 
 /**
  * 习题1 打印出n个自然数（1，2，3，…，n）中取r个数的组合

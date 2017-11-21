@@ -1,4 +1,4 @@
-package week1.answer;
+package group1.answer;
 
 /**
  * 习题2 数塔问题

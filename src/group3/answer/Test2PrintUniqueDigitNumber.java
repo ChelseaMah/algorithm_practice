@@ -1,4 +1,4 @@
-package week3.answer;
+package group3.answer;
 
 /**
  * 习题3

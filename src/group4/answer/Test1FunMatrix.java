@@ -1,4 +1,4 @@
-package week4.answer;
+package group4.answer;
 
 /**
  * Test1趣味矩阵
