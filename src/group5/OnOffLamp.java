@@ -15,11 +15,11 @@ public class OnOffLamp {
         }
         System.out.println("还亮着的灯有:");
         boolean[] lamps = new boolean[n];
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n; i++) {
             for (int j = i - 1; j < n; j += i) {
                 lamps[j] = !lamps[j];
                 if (lamps[j] && j < i) {
-                    System.out.print("第" + (j + 1) + "栈   ");
+                    System.out.print("第" + (j + 1) + "盏   ");
                 }
             }
         }
